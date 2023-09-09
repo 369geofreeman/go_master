@@ -1,9 +1,7 @@
 # Go Master Repository
 
-This repository contains various Go programming examples and exercises. Below are the main folders with links to navigate through them:
-
-- [Application Structure](https://github.com/369geofreeman/go_master/tree/main/application_structure)
-- [Exercise 1](https://github.com/369geofreeman/go_master/tree/main/exercise1)
+This is a work in progress to learn more about the complexities of GO.<br/>
+Feel free to explore!
 
 ## Application Structure
 
@@ -31,6 +29,3 @@ The "Exercise 1" folder contains Go files that are part of an exercise. Here are
 3. [Named Type Aliases](https://github.com/369geofreeman/go_master/tree/main/exercise1/named_type_aliases)
 4. [Operators Constants](https://github.com/369geofreeman/go_master/tree/main/exercise1/operators_constants)
 5. [Variables](https://github.com/369geofreeman/go_master/tree/main/exercise1/variables)
-
-This is a work in progress to learn more about the complexities of GO.
-Feel free to explore the repository and learn more about Go programming!
