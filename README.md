@@ -3,6 +3,9 @@
 This is a work in progress to learn more about the complexities of GO.<br/>
 Feel free to explore!
 
+- [Application Structure](https://github.com/369geofreeman/go_master/tree/main/application_structure)
+- [Exercise 1](https://github.com/369geofreeman/go_master/tree/main/exercises)
+
 ## Application Structure
 
 The "Application Structure" folder contains several Go files demonstrating different aspects of the Go programming language. Here are the files contained in this folder:
