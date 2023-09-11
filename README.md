@@ -1,4 +1,4 @@
-# Go Master Repository
+# Master Go Repository
 
 This is a work in progress to learn more about the complexities of GO.<br/>
 Feel free to explore!
@@ -20,12 +20,12 @@ The "Application Structure" folder contains several Go files demonstrating diffe
 11. [Variable Basics](https://github.com/369geofreeman/go_master/tree/main/application_structure/variable_basics)
 12. [Zero Values](https://github.com/369geofreeman/go_master/tree/main/application_structure/zero_values)
 
-## Exercise 1
+## Exercises
 
-The "Exercise 1" folder contains Go files that are part of an exercise. Here are the files contained in this folder:
+The "Exercises" folder contains Go files that are course questions. Here are the files contained in this folder:
 
-1. [Constant](https://github.com/369geofreeman/go_master/tree/main/exercise1/constant)
-2. [Fmt](https://github.com/369geofreeman/go_master/tree/main/exercise1/fmt)
-3. [Named Type Aliases](https://github.com/369geofreeman/go_master/tree/main/exercise1/named_type_aliases)
-4. [Operators Constants](https://github.com/369geofreeman/go_master/tree/main/exercise1/operators_constants)
-5. [Variables](https://github.com/369geofreeman/go_master/tree/main/exercise1/variables)
+1. [Constant](https://github.com/369geofreeman/go_master/tree/main/exercises/constant)
+2. [Fmt](https://github.com/369geofreeman/go_master/tree/main/exercises/fmt)
+3. [Named Type Aliases](https://github.com/369geofreeman/go_master/tree/main/exercises/named_type_aliases)
+4. [Operators Constants](https://github.com/369geofreeman/go_master/tree/main/exercises/operators_constants)
+5. [Variables](https://github.com/369geofreeman/go_master/tree/main/exercises/variables)
