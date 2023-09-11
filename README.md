@@ -19,6 +19,15 @@ The "Application Structure" folder contains several Go files demonstrating diffe
 10. [Untyped Constants](https://github.com/369geofreeman/go_master/tree/main/application_structure/untyped_constants)
 11. [Variable Basics](https://github.com/369geofreeman/go_master/tree/main/application_structure/variable_basics)
 12. [Zero Values](https://github.com/369geofreeman/go_master/tree/main/application_structure/zero_values)
+13. [For Continue](https://github.com/369geofreeman/go_master/tree/main/application_structure/for_continue)
+14. [Goto Statements](https://github.com/369geofreeman/go_master/tree/main/application_structure/goto_statements)
+15. [If Else](https://github.com/369geofreeman/go_master/tree/main/application_structure/if_else)
+16. [Label Statements](https://github.com/369geofreeman/go_master/tree/main/application_structure/label_statements)
+17. [Loops](https://github.com/369geofreeman/go_master/tree/main/application_structure/loops)
+18. [Scope](https://github.com/369geofreeman/go_master/tree/main/application_structure/scope)
+19. [Simple Statements](https://github.com/369geofreeman/go_master/tree/main/application_structure/simple_statements)
+20. [Switch Statement](https://github.com/369geofreeman/go_master/tree/main/application_structure/switch_statement)
+21. [User Input](https://github.com/369geofreeman/go_master/tree/main/application_structure/user_input)
 
 ## Exercises
 
@@ -29,3 +38,4 @@ The "Exercises" folder contains Go files that are course questions. Here are the
 3. [Named Type Aliases](https://github.com/369geofreeman/go_master/tree/main/exercises/named_type_aliases)
 4. [Operators Constants](https://github.com/369geofreeman/go_master/tree/main/exercises/operators_constants)
 5. [Variables](https://github.com/369geofreeman/go_master/tree/main/exercises/variables)
+6. [Control Flow](https://github.com/369geofreeman/go_master/tree/main/exercises/control_flow)
