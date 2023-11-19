@@ -1,0 +1,29 @@
+Play108. Open, Close, Rename, Move, Remove Files
+108. Open, Close, Rename, Move, Remove Files
+14min
+Start
+109. Coding - Operations on Files
+1min
+Play
+110. Writing Bytes to File: os.Write and ioutil.WriteFile
+7min
+Start
+111. Coding - Writing to Files Using os and ioutil
+1min
+Play
+112. Writing to Files using a Buffered Writer (bufio Package)
+7min
+Start
+113. Coding - Writing to Files Using a Buffer in Memory
+1min
+Play
+114. Reading n Bytes from a File. Reading a File using a Buffered Reader
+6min
+Start
+115. Coding - Reading Bytes from Files
+1min
+Play
+116. Reading a File Line by Line Using a Scanner
+6min
+Start
+117. Coding - Reading File
